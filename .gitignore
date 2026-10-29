@@ -1,0 +1,8 @@
+.env
+*.session
+*.session-journal
+positions.json
+settings.json
+KILL
+venv/
+__pycache__/

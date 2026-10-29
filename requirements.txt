@@ -1,0 +1,5 @@
+telethon
+httpx
+solders
+python-telegram-bot>=21
+python-dotenv
